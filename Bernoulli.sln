@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bernoulli", "Bernoulli\Bernoulli.csproj", "{A0291BA8-613B-440D-BD44-3B68B4584713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunIt", "RunIt\RunIt.csproj", "{17FC80AD-30DC-4B8A-A966-B24E260D8927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17FC80AD-30DC-4B8A-A966-B24E260D8927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FC80AD-30DC-4B8A-A966-B24E260D8927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FC80AD-30DC-4B8A-A966-B24E260D8927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FC80AD-30DC-4B8A-A966-B24E260D8927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0291BA8-613B-440D-BD44-3B68B4584713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0291BA8-613B-440D-BD44-3B68B4584713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0291BA8-613B-440D-BD44-3B68B4584713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0291BA8-613B-440D-BD44-3B68B4584713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RunIt\RunIt.csproj
+	EndGlobalSection
+EndGlobal
