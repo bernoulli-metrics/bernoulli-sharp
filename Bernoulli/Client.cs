@@ -10,7 +10,7 @@ namespace Bernoulli
 {
 	public static class Client
 	{
-		private const string URL = "http://localhost:5000/client/api/experiments/";
+		private const string URL = "https://bernoulli.herokuapp.com/client/api/experiments/";
 
 		public static List<Experiment> GetExperiments(string clientId, List<string> experimentIds, string userId, Dictionary<string, string> segmentData) 
 		{
