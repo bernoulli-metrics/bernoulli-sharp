@@ -59,7 +59,7 @@ namespace Bernoulli
 				{ "experimentId", experimentId },
 				{ "userId", userId },
 			});
-			return res.Value.Value;
+			return res.Value.Success;
 		}
 
 		private static string CreateQueryString(Dictionary<string, string> query) 

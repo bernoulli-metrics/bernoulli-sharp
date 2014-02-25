@@ -20,7 +20,7 @@ namespace Bernoulli
 	}
 
 	public class PostValue {
-		public bool Value {
+		public bool Success {
 			get; set;
 		}
 	}

@@ -9,7 +9,7 @@ namespace Bernoulli
 
 		}
 
-		public int ID 
+		public string ID 
 		{
 			get;
 			set;
@@ -40,12 +40,6 @@ namespace Bernoulli
 		}
 
 		public string SegmentName 
-		{
-			get;
-			set;
-		}
-
-		public string Client_ID 
 		{
 			get;
 			set;
