@@ -45,7 +45,7 @@ namespace Bernoulli
 			set;
 		}
 
-		public int Segment 
+		public int? Segment 
 		{
 			get;
 			set;
